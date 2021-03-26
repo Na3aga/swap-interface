@@ -1,7 +1,7 @@
 {
   "name": "@pancakeswap/interface",
   "description": "Pancakeswap Interface",
-  "homepage": "https://na3aga.github.io/swap-interface",
+  "homepage": "http://na3aga.github.io/swap-interface",
   "private": true,
   "dependencies": {
     "@binance-chain/bsc-connector": "^1.0.0",
