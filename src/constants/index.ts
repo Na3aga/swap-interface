@@ -13,7 +13,8 @@ type ChainTokenList = {
 export const DAI = new Token(ChainId.BSCTESTNET, '0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867', 18, 'DAI', 'Dai Stablecoin')
 
 // export const BUSD = new Token(ChainId.MAINNET, '0xe9e7cea3dedca5984780bafc599bd69add087d56', 18, 'BUSD', 'Binance USD')
-export const BUSD = new Token(ChainId.BSCTESTNET, '0xe9e7cea3dedca5984780bafc599bd69add087d56', 18, 'BUSD', 'Binance USD')
+// export const BUSD = new Token(ChainId.BSCTESTNET, '0xe9e7cea3dedca5984780bafc599bd69add087d56', 18, 'BUSD', 'Binance USD')
+export const BUSD = new Token(ChainId.BSCTESTNET, '0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee', 18, 'BUSD', 'Binance USD')
 
 // export const USDT = new Token(ChainId.MAINNET, '0x55d398326f99059ff775485246999027b3197955', 18, 'USDT', 'Tether USD')
 export const USDT = new Token(ChainId.BSCTESTNET, '0x55d398326f99059ff775485246999027b3197955', 18, 'USDT', 'Tether USD')

@@ -36,7 +36,7 @@
     {
       "name": "BUSD Token",
       "symbol": "BUSD",
-      "address": "0x615446C0Fd5eA8A5FD7fb763f3FC2C58774474F3",
+      "address": "0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "/images/coins/BTC.png"
@@ -62,6 +62,13 @@
       "symbol": "ETH",
       "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
       "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/ETH.png"
+    },{
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0xd66c6b4f0be8ce5b39d52e0fd1344c389929b378",
+      "chainId": 97,
       "decimals": 18,
       "logoURI": "/images/coins/ETH.png"
     },
@@ -161,6 +168,14 @@
       "symbol": "DAI",
       "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
       "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/DAI-icon.png"
+    },
+    {
+      "name": "Dai Token",
+      "symbol": "DAI",
+      "address": "0xec5dcb5dbf4b114c9d0f65bccab49ec54f6a0867",
+      "chainId": 97,
       "decimals": 18,
       "logoURI": "/images/coins/DAI-icon.png"
     },
